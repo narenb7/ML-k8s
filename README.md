@@ -1,24 +1,5 @@
-<p align = "center" draggable=”false”
-   ><img src="https://user-images.githubusercontent.com/37101144/161836199-fdb0219d-0361-4988-bf26-48b0fad160a3.png"
-     width="200px"
-     height="auto"/>
-</p>
 
-# <h1 align="center" id="heading">Week 8 - Deploying Pet-Bokeh using Kubernetes with Nvidia Triton on EC2</h1>
-
-## 📚 Learning Objectives
-
-By the end of this session, you will be able to:
-
-- Create and configure a minikube cluster
-- Integrate minikube with Nvidia Trition Server
-- Deploy a minikube cluster on EC2
-
-## 📦 Deliverables
-
-- A screenshot of kubectl dashboard
-- A screenshot of your deployment
-
+# <h1 align="center" id="heading">Deploying Pet-Bokeh using Kubernetes with Nvidia Triton on EC2</h1>
 
 ## Deployment on EC2
 
